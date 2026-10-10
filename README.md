@@ -4,7 +4,7 @@
 
 ## 🏆 競技プログラミング / 機械学習コンペティション
 
-* [AtCoder](https://atcoder.jp/users/melo25) — Algorithm 水色 / Heuristic 橙色
+* [AtCoder](https://atcoder.jp/users/melo25?contestType=heuristic) — Algorithm 水色 / Heuristic 橙色
 
   * [ALGO ARTIS プログラミングコンテスト2026 長月（AHC072）](https://atcoder.jp/contests/ahc072) — 全体3位 / 2597人
   * [RECRUIT 日本橋ハーフマラソン 2025秋（AHC055）](https://atcoder.jp/contests/ahc055) — 学生26位 / 全体82位 / 1406人
