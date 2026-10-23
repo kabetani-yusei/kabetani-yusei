@@ -14,7 +14,7 @@
 
   * [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) — 74位 / 10,148チーム（Top 0.7%）🥈
   * [The Pokémon Company - PTCG AI Battle Challenge Simulation](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle) — 155位 / 6,807チーム（Top 2.3%）🥈
-  * [AI Agent Security - Multi-Step Tool Attacks](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks) — 215位 / 4,251チーム（Top 5.1%）🥉
+  * [Biohub Cell Tracking During Development](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development) — 134位 / 3,947チーム（Top 3.4%）🥈
 
 * [SIGNATE](https://user.competition.signate.jp/ja/user/?user=5a67c126a1d648f88ce4b580c4abf31a) — Grandmaster（🥇3🥉1）
 
